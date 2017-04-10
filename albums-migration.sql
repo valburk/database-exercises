@@ -12,3 +12,5 @@
     genre VARCHAR(20),
     PRIMARY KEY (id)
 );
+
+ 
